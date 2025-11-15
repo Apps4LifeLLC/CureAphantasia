@@ -4,7 +4,7 @@
 
 • **Sensory Thinking** - Thoughts which are structured based on sensorial processes (ie Sight, Taste, Touch, Sound, Smell).
 
-• **Conceptual Thinking** - Thoughts which are structured based on platonic properties (eg Spatial, Orientation, Motion, etc).
+• **Conceptual Thinking** - Thoughts which are structured based on latent platonic properties (eg Spatial, Orientation, Motion, etc).
 
 • **Emotional Thinking** - Thoughts which are structured based on emotional feelings.
 
