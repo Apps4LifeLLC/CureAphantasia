@@ -1,6 +1,6 @@
 # Thinking Styles
 
-• **Verbal Thinking** - Thoughts which are structured based on language.
+• **Verbal Thinking** - Thoughts which are structured based on language and reasoning.
 
 • **Sensory Thinking** - Thoughts which are structured based on sensorial processes (ie Sight, Taste, Touch, Sound, Smell).
 
