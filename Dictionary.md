@@ -6,6 +6,8 @@
 
 • **Conceptual Thinking** - Thoughts which are structured based on platonic properties (eg Spatial, Orientation, Motion, etc).
 
+• **Emotional Thinking** - Thoughts which are structured based on emotional feelings.
+
 ----
 
 # Mental Mechanisms
