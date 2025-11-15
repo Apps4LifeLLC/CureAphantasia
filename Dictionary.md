@@ -10,7 +10,7 @@
 
 # Mental Mechanisms
 
-• **Inner Monologue** - A Mental Mechanism for hosting Verbal Thinking. Inner Monologue primarily hosts Verbal Thinking, and can synergize with Sensory Thinking (specifically _Sound Sensory Thinking_) to attach voices to Verbal Thoughts. The Inner Monologue can have parallel instances (ie '_inner dialogue_').
+• **Inner Monologue** - A Mental Mechanism for fascilitating Verbal Thinking. The Inner Monologue primarily fascilitates terbal thoughts, and can synergize with Sensory Thinking (specifically _Sound Sensory Thinking_) to attach voices to verbal thoughts. The Inner Monologue can have parallel instances (ie '_Inner Dialogue_').
 
 • **Minds Eye** - _TBD (Note, sub-component of the `Theater of the Mind`)_
 
